@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Thibaut Lagoda</h1>
+<h1 align="center">Hi 👋, I'm Thibaut Lagoda</h1><br/>
 <h3 align="center">A self-taught front-end developer 💻</h3>
 
 - 🔭 I’m currently working on **React, and I am learning Firebase.**
 
 - 🌱 I’m currently learning **Redux**
 
-- 📫 How to reach me **https://twitter.com/thibaut_lagoda**
-
-- ⚡ Fun fact **Before learning web development, I was a med student.💉**
+- ⚡ Fun fact **Before learning web development, I was a med student. 💉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

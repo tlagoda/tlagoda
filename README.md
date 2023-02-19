@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thibaut Lagoda</h1>
 <h3 align="center">A self-taught front-end developer 💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlagoda" alt="tlagoda" /></a> </p>
-
 - 🔭 I’m currently working on **Vue & Nest!**
 
 - 🌱 I’m currently learning **Three.js 🔥**

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thibaut Lagoda</h1>
-<h3 align="center">A self-taught front-end developer 💻</h3>
+<h3 align="center">A self-taught developer 💻</h3>
 
 - 🔭 I’m currently working on **Vue & Nest!**
 

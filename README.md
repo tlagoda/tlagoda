@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vue & Nest!**
 
-- 🌱 I’m currently learning **Three.js 🔥**
+- 🌱 I’m currently learning **Data Structure and Algorithms 🔥**
 
 - 📫 How to reach me **https://twitter.com/thibaut_lagoda**
 

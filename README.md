@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thibaut Lagoda</h1>
 <h3 align="center">A self-taught developer 💻</h3>
 
-- 🔭 I’m currently working on **Vue & Nest!**
+- 🔭 I’m currently working on **Node & Nest!**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms 🔥**
+- 🌱 I’m currently learning **Data Structure and Algorithms 🚀**
 
 - 📫 How to reach me **https://twitter.com/thibaut_lagoda**
 
